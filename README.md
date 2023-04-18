@@ -1,7 +1,8 @@
 # WooJooProfile
 
-## UI</br>
+## UI
 ![img_profile_card_example](https://user-images.githubusercontent.com/77264918/232855541-dd221e7c-3ac1-4b1f-bf4c-91fb73d092f5.jpeg)
+</br>
 위 이미지는 그저 예시일뿐 자세한 UI는 디자이너에게 요청해보기
 이미지 블러처리도 공부해보기
 
