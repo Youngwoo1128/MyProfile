@@ -11,22 +11,22 @@
 9-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 12        android:name="com.youngwoo.woojooprofile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.youngwoo.woojooprofile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:5:5-28:19
+17-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:5:5-23:19
 18        android:allowBackup="true"
 18-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/5acb50fa3c8e1ba22e6d24777cd05744/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] /Users/youngwoosong/.gradle/caches/transforms-3/2ee381184743cd7443865962385886d4/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
 20-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
@@ -45,51 +45,53 @@
 29        android:theme="@style/Theme.WooJooProfile" >
 29-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:13:9-51
 30        <activity
-30-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:15:9-27:20
+30-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:15:9-22:20
 31            android:name="com.youngwoo.woojooprofile.MainActivity"
 31-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:16:13-41
 32            android:exported="true" >
 32-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:17:13-36
 33            <intent-filter>
-33-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:18:13-22:29
+33-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:18:13-21:29
 34                <action android:name="android.intent.action.MAIN" />
 34-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:19:17-69
 34-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:19:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:21:17-77
-36-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:21:27-74
+36-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:20:17-77
+36-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:20:27-74
 37            </intent-filter>
-38
-39            <meta-data
-39-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:24:13-26:36
-40                android:name="android.app.lib_name"
-40-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:25:17-52
-41                android:value="" />
-41-->/Users/youngwoosong/Desktop/Development/Android/WooJooProfile/WooJooProfile/app/src/main/AndroidManifest.xml:26:17-33
-42        </activity>
-43
-44        <provider
-44-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-45            android:name="androidx.startup.InitializationProvider"
-45-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-46            android:authorities="com.youngwoo.woojooprofile.androidx-startup"
-46-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-47            android:exported="false" >
-47-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-48            <meta-data
-48-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-49-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-50                android:value="androidx.startup" />
-50-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/7bab77f9420eeeebd934e599dcad4039/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-51            <meta-data
-51-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/b95229bb8e148a1796a18998c92c64e7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/b95229bb8e148a1796a18998c92c64e7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-53                android:value="androidx.startup" />
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/b95229bb8e148a1796a18998c92c64e7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-54        </provider>
-55    </application>
-56
-57</manifest>
+38        </activity>
+39
+40        <service
+40-->[androidx.room:room-runtime:2.5.0] /Users/youngwoosong/.gradle/caches/transforms-3/80451f8d07dbb246d61c14d0f1fd2d60/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+41            android:name="androidx.room.MultiInstanceInvalidationService"
+41-->[androidx.room:room-runtime:2.5.0] /Users/youngwoosong/.gradle/caches/transforms-3/80451f8d07dbb246d61c14d0f1fd2d60/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+42            android:directBootAware="true"
+42-->[androidx.room:room-runtime:2.5.0] /Users/youngwoosong/.gradle/caches/transforms-3/80451f8d07dbb246d61c14d0f1fd2d60/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+43            android:exported="false" />
+43-->[androidx.room:room-runtime:2.5.0] /Users/youngwoosong/.gradle/caches/transforms-3/80451f8d07dbb246d61c14d0f1fd2d60/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+47            android:authorities="com.youngwoo.woojooprofile.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/youngwoosong/.gradle/caches/transforms-3/49847d8e5daa26a38227844289354d62/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/806719f104c42e2cea8d8c77cc572692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/806719f104c42e2cea8d8c77cc572692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/youngwoosong/.gradle/caches/transforms-3/806719f104c42e2cea8d8c77cc572692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
