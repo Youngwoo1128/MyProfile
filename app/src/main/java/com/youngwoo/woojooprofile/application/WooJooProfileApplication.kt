@@ -1,4 +1,4 @@
-package com.youngwoo.woojooprofile
+package com.youngwoo.woojooprofile.application
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
