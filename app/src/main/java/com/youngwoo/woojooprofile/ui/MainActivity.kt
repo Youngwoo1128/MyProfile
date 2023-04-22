@@ -1,4 +1,4 @@
-package com.youngwoo.woojooprofile
+package com.youngwoo.woojooprofile.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
