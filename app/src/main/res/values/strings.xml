@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WooJooProfile</string>
+
+    <string name="non_profile_cards">아직 프로필 카드가 없네요!</string>
 </resources>
